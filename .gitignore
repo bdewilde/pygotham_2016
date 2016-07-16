@@ -1,2 +1,3 @@
 .ipynb_checkpoint*
+*.key
 stuff/*
